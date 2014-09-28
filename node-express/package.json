@@ -1,0 +1,11 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Sample Clever OAuth flow using Node/Express",
+  "main": "index.js",
+  "author": "Ajay Tungare (github.com/atungare)",
+  "dependencies": {
+    "express": "^4.9.5",
+    "quest": "^0.2.8"
+  }
+}
